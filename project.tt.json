@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "vika-weapp",
+  "description": "使用 taro 和 vika sdk 构建微信小程序的 demo",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
